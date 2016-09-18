@@ -248,59 +248,126 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 >[Custom Server side cache example](Week07/1.%20Caching.md#custom-server-side-cache-example)
 
 **Week 08:**
->*1. Node*
+>*1. Microservices*
 >
->[NodeJS](Week09/NodeJS.md)
-
->*2. Express*
+>[Microservices](Week08/1.%20Microservices.md#microservices)
+>
+>*2. NodeJS and ECMASCript 6*
 >
 
 **Week 09:**
->*1. MongoDB*
+>*1. NodeJS*
 >
+>[Node.js](Week09/1.%20NodeJS.md#nodejs)
+>
+>[How to install Node.js](Week09/1.%20NodeJS.md#how-to-install-nodejs)
+>
+>[Nodejs shell](Week09/1.%20NodeJS.md#nodejs-shell)
+>
+>[Node.js is single threaded and asynchronous](Week09/1.%20NodeJS.md#nodejs-is-single-threaded-and-asynchronous)
+>
+>[Echo server](Week09/1.%20NodeJS.md#echo-server)
+>
+>[Web service in node.js](Week09/1.%20NodeJS.md#web-service-in-nodejs)
 
->*2. Elastic Search*
+>*2. Express*
 >
->[Elasticsearch](Week10/elasticsearch.md#elasticsearch)
+>[Express](Week09/2.%20Express.md#express)
 >
->[Download and install](Week10/elasticsearch.md#download-and-install)
->[Indexing](Week10/elasticsearch.md#indexing)
+>[Download and install](Week09/2.%20Express.md#download-and-install)
 >
->[Search](Week10/elasticsearch.md#search)
+>[Middleware](Week09/2.%20Express.md#middleware)
 >
->[Basic text search](Week10/elasticsearch.md#basic-text-search)
+>[Lets dance](Week09/2.%20Express.md#lets-dance)
 >
->[Query in list](Week10/elasticsearch.md#query-in-list)
+>[MEAN Stack](Week09/2.%20Express.md#mean-stack)
 >
->[Query by range on dates](Week10/elasticsearch.md#query-by-range-on-dates)
-
+>[Helpful resources](Week09/2.%20Express.md#helpful-resources)
 
 **Week 10:**
 
 >*1. NodeJS Unit tests*
 >
+>[Unit Testing](Week10/1.%20NodeJS%20Unit%20Test.md#unit-testing)
+>
+>[How to install Mocha](Week10/1.%20NodeJS%20Unit%20Test.md#how-to-install-mocha)
+>
+>[The node JS function under test.](Week10/1.%20NodeJS%20Unit%20Test.md#the-node-js-function-under-test)
+>
+>[Our first Mocha test](Week10/1.%20NodeJS%20Unit%20Test.md#our-first-mocha-test)
+>
+>[Running Mocha](Week10/1.%20NodeJS%20Unit%20Test.md#running-mocha)
 
 >*2. Message Queues*
 >
->[RabbitMQ](Week11/RabbitMQ.md#rabbitmq)
+>[RabbitMQ](Week10/2.%20Message%20Queues.md#rabbitmq)
 >
->[Installing RabbitMQ](Week11/RabbitMQ.md#installing-rabbitmq)
+>[Installing RabbitMQ](Week10/2.%20Message%20Queues.md#installing-rabbitmq)
 >
->[Example 1](Week11/RabbitMQ.md#example-1)
+>[Example 1](Week10/2.%20Message%20Queues.md#example-1)
 >
->[Message acknowledgment](Week11/RabbitMQ.md#message-acknowledgment)
+>[Message acknowledgment](Week10/2.%20Message%20Queues.md#message-acknowledgment)
 >
->[Message durability](Week11/RabbitMQ.md#message-durability)
+>[Message durability](Week10/2.%20Message%20Queues.md#message-durability)
 
 
 **Week 11:**
+>
+>*1. Document Storage*
+>
+>[MongoDB](Week11/1.%20Document%20Storage.md#mongodb)
+>>
+>>[Data models.](Week11/1.%20Document%20Storage.md#data-models)
+>>
+>>[Indexes](Week11/1.%20Document%20Storage.md#indexes)
+>>
+>>[Replication](Week11/1.%20Document%20Storage.md#replication)
+>>
+>>[Sharding](Week11/1.%20Document%20Storage.md#sharding)
+>>
+>>[Setup](Week11/1.%20Document%20Storage.md#setup)
+>>
+>[Mongo](Week11/1.%20Document%20Storage.md#mongo)
+>
+>[Mongoose](Week11/1.%20Document%20Storage.md#mongoose)
+>>
+>>[Setup](Week11/1.%20Document%20Storage.md#setup-1)
+>>
+>>[Getting started](Week11/1.%20Document%20Storage.md#getting-started)
+>
+>[Validating in mongoose](Week11/1.%20Document%20Storage.md#validating-in-mongoose)
+>>
+>>[Simple validation](Week11/1.%20Document%20Storage.md#simple-validation)
+>>
+>>[Regular expression](Week11/1.%20Document%20Storage.md#regular-expression)
+>>
+>>[Asynchronous validation](Week11/1.%20Document%20Storage.md#asynchronous-validation)
+>>
+>>[Built in validators.](Week11/1.%20Document%20Storage.md#built-in-validators)
+
+>*2. Elastic Search*
+>
+>[Elasticsearch](Week11/2.%20ElasticSearch.md#elasticsearch)
+>
+>[Download and install](Week11/2.%20ElasticSearch.md#download-and-install)
+>
+>[Indexing](Week11/2.%20ElasticSearch.md#indexing)
+>
+>[Search](Week11/2.%20ElasticSearch.md#search)
+>
+>[Basic text search](Week11/2.%20ElasticSearch.md#basic-text-search)
+>
+>[Query in list](Week11/2.%20ElasticSearch.md#query-in-list)
+>
+>[Query by range on dates](Week11/2.%20ElasticSearch.md#query-by-range-on-dates)
+>
+>[Advanced key storing](Week11/2.%20ElasticSearch.md#advanced-key-storing)
+>
+>[Using Elasticsearch with MongoDB](Week11/2.%20ElasticSearch.md#using-elasticsearch-with-mongodb)
+
+**Week 12:**
 >*1. Deployment*
 >
 
 >*2. Docker*
->
-
-
-**Week 12:**
->*1. Microservices*
 >
