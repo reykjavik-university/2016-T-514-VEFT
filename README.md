@@ -62,7 +62,13 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 
 >*4. ASP.NET Web API*
 >
->[Architecture](Week01/4.%20ASP.NET%20Web%20API.md#aspnet-web-api)
+>[History](Week01/4.%20ASP.NET%20Web%20API.md#history)
+>
+>[Installing](Week01/4.%20ASP.NET%20Web%20API.md#installing)
+>
+>[Creating a Web API project](Week01/4.%20ASP.NET%20Web%20API.md#creating-a-web-api-project)
+>
+>[Architecture](Week01/4.%20ASP.NET%20Web%20API.md#architecture)
 >
 >[JSON or XML?](Week01/4.%20ASP.NET%20Web%20API.md#json-or-xml)
 >
