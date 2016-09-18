@@ -212,24 +212,24 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 **Week 06:**
 >*1. Security*
 >
->[OAuth](Week06/Security.md#oauth)
+>[OAuth](Week06/1.%20Authentication%20and%20authorization.md#oauth)
 >
->[Oauth 1.0](Week06/Security.md#oauth-10)
+>[Oauth 1.0](Week06/1.%20Authentication%20and%20authorization.md#oauth-10)
 >
->[OAuth 2.0](Week06/Security.md#oauth-20)
+>[OAuth 2.0](Week06/1.%20Authentication%20and%20authorization.md#oauth-20)
 >
->[OAuth and .NET](Week06/Security.md#oauth-and-net)
+>[OAuth and .NET](Week06/1.%20Authentication%20and%20authorization.md#oauth-and-net)
 >
->[OpenID Connect](Week06/Security.md#openid-connect)
+>[OpenID Connect](Week06/1.%20Authentication%20and%20authorization.md#openid-connect)
 >
->[OpenID Connect basic specs](Week06/Security.md#openid-connect-basic-specs)
+>[OpenID Connect basic specs](Week06/1.%20Authentication%20and%20authorization.md#openid-connect-basic-specs)
 
 >*2. OData*
->[OData](Week06/OData.md#odata)
+>[OData](Week06/2.%20OData.md#odata)
 >
->[Querying Data](Week06/OData.md#querying-data)
+>[Querying Data](Week06/2.%20OData.md#querying-data)
 >
->[OData and .NET](Week06/OData.md#odata-and-net)
+>[OData and .NET](Week06/2.%20OData.md#odata-and-net)
 
 **Week 07:**
 >*1. Caching*
