@@ -235,17 +235,17 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 **Week 07:**
 >*1. Caching*
 >
->[Caching](Week07/Caching.md#caching)
+>[Caching](Week07/1.%20Caching.md#caching)
 >
->[Web API caching](Week07/Caching.md#web-api-caching)
+>[Web API caching](Week07/1.%20Caching.md#web-api-caching)
 >
->[ETags](Week07/Caching.md#etags)
+>[ETags](Week07/1.%20Caching.md#etags)
 >
->[CacheCow](Week07/Caching.md#cachecow)
+>[CacheCow](Week07/1.%20Caching.md#cachecow)
 >
->[ASP.NET Web API CacheOutput](Week07/Caching.md#aspnet-web-api-cacheoutput)
+>[ASP.NET Web API CacheOutput](Week07/1.%20Caching.md#aspnet-web-api-cacheoutput)
 >
->[Custom Server side cache example](Week07/Caching.md#custom-server-side-cache-example)
+>[Custom Server side cache example](Week07/1.%20Caching.md#custom-server-side-cache-example)
 
 **Week 08:**
 >*1. Node*
