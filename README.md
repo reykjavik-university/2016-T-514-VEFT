@@ -50,6 +50,15 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 
 >*3. SOAP*
 >
+>[What](Week01/3.%20SOAP.md#what)
+>
+>[Why](Week01/3.%20SOAP.md#why)
+>
+>[Why not](Week01/3.%20SOAP.md#why-not)
+>
+>[REST vs SOAP](Week01/3.%20SOAP.md#rest-vs-soap)
+>
+>[Helpful resources](Week01/3.%20SOAP.md#helpful-resources)
 
 >*4. ASP.NET Web API*
 >
