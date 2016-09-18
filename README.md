@@ -122,32 +122,33 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 **Week 03:**
 >*1. LINQ*
 >
->[LINQ](Week03/9.%20LINQ.md#linq)
+>[LINQ](Week03/1.%20LINQ.md#linq)
 >
->[Materializing queries](Week03/9.%20LINQ.md#materializing-queries)
+>[Materializing queries](Week03/1.%20LINQ.md#materializing-queries)
 >
->[Accessing records - Single record](Week03/9.%20LINQ.md#single-record)
+>[Accessing records - Single record](Week03/1.%20LINQ.md#single-record)
 >
->[Accessing records - More than one](Week03/9.%20LINQ.md#more-then-one)
->[Join](Week03/9.%20LINQ.md#join)
+>[Accessing records - More than one](Week03/1.%20LINQ.md#more-than-one)
 >
->[Extending LINQ](Week03/9.%20LINQ.md#extending-linq)
+>[Join](Week03/1.%20LINQ.md#join)
+>
+>[Extending LINQ](Week03/1.%20LINQ.md#extending-linq)
 
 >*2. Entity relationships*
 >
->[Entity relationships](Week03/10.%20Entity%20relationships.md#entity-relationships)
+>[Entity relationships](Week03/2.%20Entity%20relationships.md#entity-relationships)
 >
->[Entity Framework Relationships](Week03/10.%20Entity%20relationships.md#entity-framework-relationships)
+>[Entity Framework Relationships](Week03/2.%20Entity%20relationships.md#entity-framework-relationships)
 >
->[Loading options](Week03/10.%20Entity%20relationships.md#loading-options)
+>[Loading options](Week03/2.%20Entity%20relationships.md#loading-options)
 
 >*3. Mapping*
 >
->[Mapping](Week03/11.%20Mapping.md#mapping)
+>[Mapping](Week03/3.%20Mapping.md#mapping)
 
 >*4. Fluent API*
 >
->[Fluent API](Week03/12.%20Fluent%20API.md#fluent-api)
+>[Fluent API](Week03/4.%20Fluent%20API.md#fluent-api)
 
 **Week 04:**
 >*Unit Testing*
