@@ -38,6 +38,8 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 >
 >[HTTP Status codes](Week01/2.%20REST.md#http-status-codes)
 >
+>[Response format](Week01/2.%20REST.md#response-format)
+>
 >[Versioning](Week01/2.%20REST.md#versioning)
 >
 >[REST Maturity Model](Week01/2.%20REST.md#rest-maturity-model)
