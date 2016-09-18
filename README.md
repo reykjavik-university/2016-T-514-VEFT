@@ -96,6 +96,8 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 >[Entities, DTO and ViewModels](Week02/1.%20Web%20Service%20Architecture.md#entities-dto-and-viewmodels)
 >
 >[Project Setup](Week02/1.%20Web%20Service%20Architecture.md#project-setup)
+>
+>[Adding a new project to our solution](Week02/1.%20Web%20Service%20Architecture.md#adding-a-new-project-to-our-solution)
 
 >*2. Unit of Work*
 >
