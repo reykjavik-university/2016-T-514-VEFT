@@ -164,7 +164,7 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 >
 >[Data Annotations](https://github.com/reykjavik-university/2014-T-514-VEFT/blob/master/Week05/Validation-L10N-Error-Tracing.md#data-annotations)
 >
->[Moving validation to service layer](https://github.com/reykjavik-university/2014-T-514-VEFT/blob/master/Week05/Validation-L10N-Error-Tracing.md#moving-validation-to-service-layer)
+>[Moving validation to the service layer](https://github.com/reykjavik-university/2014-T-514-VEFT/blob/master/Week05/Validation-L10N-Error-Tracing.md#moving-validation-to-the-service-layer)
 >
 >[Handling Validation Errors](https://github.com/reykjavik-university/2014-T-514-VEFT/blob/master/Week05/Validation-L10N-Error-Tracing.md#handling-validation-errors)
 
