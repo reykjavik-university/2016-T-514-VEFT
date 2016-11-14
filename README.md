@@ -289,11 +289,11 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 >
 >*2. Elastic Search*
 >
->[Download and install](Week11/2.%20ElasticSearch.dm#download-and-install)
+>[Download and install](Week11/2.%20ElasticSearch.md#download-and-install)
 >
->[Indexing](Week11/2.%20ElasticSearch.dm#indexing)
+>[Indexing](Week11/2.%20ElasticSearch.md#indexing)
 >
->[Search](Week11/2.%20ElasticSearch.dm#search)
+>[Search](Week11/2.%20ElasticSearch.md#search)
 
 
 **Week 12:**
