@@ -188,8 +188,9 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 >[Creating Custom Trace Writer](Week05/4.%20Tracing.md#creating-custom-trace-writer)
 
 >*5. ELK*
->
+
 **Week 06:**
+
 >*1. Authentication and Authorization*
 >
 >[OAuth](Week06/1.%20Authentication%20and%20authorization.md#oauth)
@@ -234,8 +235,10 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 >*2. NodeJS & ECMAScript 6*
 >
 >[MicroServices](Week08/2.%20NodeJS%20and%20ECMASCript%206.md)
->
+
+
 **Week 09:**
+
 >*1. NodeJS*
 >
 >[NodeJS](Week09/1.%20NodeJS.md)
@@ -272,8 +275,10 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 >[Installing RabbitMQ](Week10/2.%20Message%20Queues.md#installing-rabbitmq)
 >
 >[Examples](Week10/2.%20Message%20Queues.md#examples)
->
+
+
 **Week 11:**
+
 >*1. Document Storage*
 >
 >[MongoDB](Week11/1.%20Document%20Storage.md#mongodb)
