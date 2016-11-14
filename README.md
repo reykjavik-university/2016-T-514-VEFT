@@ -117,130 +117,132 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 
 >*2. Entity relationships*
 >
->[Entity relationships](Week03/10.%20Entity%20relationships.md#entity-relationships)
+>[Entity relationships](Week03/2.%20Entity%20relationships.md#entity-relationships)
 >
->[Entity Framework Relationships](Week03/10.%20Entity%20relationships.md#entity-framework-relationships)
+>[Entity Framework Relationships](Week03/2.%20Entity%20relationships.md#entity-framework-relationships)
 >
->[Loading options](Week03/10.%20Entity%20relationships.md#loading-options)
+>[Loading options](Week03/2.%20Entity%20relationships.md#loading-options)
 
 >*3. Mapping*
 >
->[Mapping](Week03/11.%20Mapping.md#mapping)
+>[Mapping](Week03/3.%20Mapping.md#mapping)
 
 >*4. Fluent API*
 >
->[Fluent API](Week03/12.%20Fluent%20API.md#fluent-api)
+>[Fluent API](Week03/4.%20Fluent%20API.md#fluent-api)
 
 **Week 04:**
 >*Unit Testing*
 >
->[Unit Testing](Week04/13.%20Unit%20testing.md#unit-testing)
+>[Unit Testing](Week04/1.%20Unit%20testing.md#unit-testing)
 >
->[Unit test setup](Week04/13.%20Unit%20testing.md#unit-test-setup)
+>[Unit test setup](Week04/1.%20Unit%20testing.md#unit-test-setup)
 >
->[System Under Test](Week04/13.%20Unit%20testing.md#system-under-test)
+>[System Under Test](Week04/1.%20Unit%20testing.md#system-under-test)
 >
->[Arrange/Act/Assert](Week04/13.%20Unit%20testing.md#arrangeactassert)
+>[Arrange/Act/Assert](Week04/1.%20Unit%20testing.md#arrangeactassert)
 >
->[Test data](Week04/13.%20Unit%20testing.md#test-data)
+>[Test data](Week04/1.%20Unit%20testing.md#test-data)
 >
->[Assert section](Week04/13.%20Unit%20testing.md#assert-section)
+>[Assert section](Week04/1.%20Unit%20testing.md#assert-section)
 >
->[Exceptions in unit tests](Week04/13.%20Unit%20testing.md#exceptions-in-unit-tests)
+>[Exceptions in unit tests](Week04/1.%20Unit%20testing.md#exceptions-in-unit-tests)
 >
->[Auto test generation](Week04/13.%20Unit%20testing.md#auto-test-generation)
+>[Auto test generation](Week04/1.%20Unit%20testing.md#auto-test-generation)
 >
->[For/against](Week04/13.%20Unit%20testing.md#foragainst)
+>[For/against](Week04/1.%20Unit%20testing.md#foragainst)
 
 **Week 05:**
 >*1 Globalization and Localization in ASP.NET*
 >
->[Introduction](Week05/Validation-L10N-Error-Tracing.md#introduction)
+>[Introduction](Week05/1.%20Globalization%20and%20localization.md#introduction)
 >
->[Detect user's language](Week05/Validation-L10N-Error-Tracing.md#detect-users-language)
+>[Detect user's language](Week05/1.%20Globalization%20and%20localization.md#detect-users-language)
 >
->[Multiple languages in web API](Week05/Validation-L10N-Error-Tracing.md#multiple-languages-in-web-api)
+>[Multiple languages in web API](Week05/1.%20Globalization%20and%20localization.md#multiple-languages-in-web-api)
 
 >*2. Validation*
 >
->[Data Annotations](Week05/Validation-L10N-Error-Tracing.md#data-annotations)
+>[Data Annotations](Week05/2.%20Validation.md#data-annotations)
 >
->[Moving validation to service layer](Week05/Validation-L10N-Error-Tracing.md#moving-validation-to-service-layer)
+>[Moving validation to service layer](Week05/2.%20Validation.md#moving-validation-to-service-layer)
 >
->[Handling Validation Errors](Week05/Validation-L10N-Error-Tracing.md#handling-validation-errors)
+>[Handling Validation Errors](Week05/2.%20Validation.md#handling-validation-errors)
 
 >*3. Exception Handling*
 >
->[HttpResponseException](Week05/Validation-L10N-Error-Tracing.md#httpresponseexception)
+>[HttpResponseException](Week05/3.%20Exception%20handling.md#httpresponseexception)
 >
->[Exception Filters](Week05/Validation-L10N-Error-Tracing.md#exception-filters)
+>[Exception Filters](Week05/3.%20Exception%20handling.md#exception-filters)
 >
->[Logging unhandled exceptions](Week05/Validation-L10N-Error-Tracing.md#logging-unhandled-exceptions)
+>[Logging unhandled exceptions](Week05/3.%20Exception%20handling.md#logging-unhandled-exceptions)
 >
->[Global IExceptionHandler](Week05/Validation-L10N-Error-Tracing.md#global-iexceptionhandler)
+>[Global IExceptionHandler](Week05/3.%20Exception%20handling.md#global-iexceptionhandler)
 
 >*4. Tracing*
 >
->[Default Tracing](Week05/Validation-L10N-Error-Tracing.md#default-tracing)
+>[Default Tracing](Week05/4.%20Tracing.md#default-tracing)
 >
->[Add traces to your code](Week05/Validation-L10N-Error-Tracing.md#add-traces-to-your-code)
+>[Add traces to your code](Week05/4.%20Tracing.md#add-traces-to-your-code)
 >
->[Creating Custom Trace Writer](Week05/Validation-L10N-Error-Tracing.md#creating-custom-trace-writer)
+>[Creating Custom Trace Writer](Week05/4.%20Tracing.md#creating-custom-trace-writer)
 
 >*5. ELK*
 >
 
 **Week 06:**
->*1. Security*
+>*1. Authentication and Authorization*
 >
->[OAuth](Week06/Security.md#oauth)
+>[OAuth](Week06/1.%20Authentication%20and%20authorization.md#oauth)
 >
->[Oauth 1.0](Week06/Security.md#oauth-10)
+>[Oauth 1.0](Week06/1.%20Authentication%20and%20authorization.md#oauth-10)
 >
->[OAuth 2.0](Week06/Security.md#oauth-20)
+>[OAuth 2.0](Week06/1.%20Authentication%20and%20authorization.md#oauth-20)
 >
->[OAuth and .NET](Week06/Security.md#oauth-and-net)
+>[OAuth and .NET](Week06/1.%20Authentication%20and%20authorization.md#oauth-and-net)
 >
->[OpenID Connect](Week06/Security.md#openid-connect)
+>[OpenID Connect](Week06/1.%20Authentication%20and%20authorization.md#openid-connect)
 >
->[OpenID Connect basic specs](Week06/Security.md#openid-connect-basic-specs)
+>[OpenID Connect basic specs](Week06/1.%20Authentication%20and%20authorization.md#openid-connect-basic-specs)
 
 >*2. OData*
->[OData](Week06/OData.md#odata)
+>[OData](Week06/2.%20OData.md#odata)
 >
->[Querying Data](Week06/OData.md#querying-data)
+>[Querying Data](Week06/2.%20OData.md#querying-data)
 >
->[OData and .NET](Week06/OData.md#odata-and-net)
+>[OData and .NET](Week06/2.%20OData.md#odata-and-net)
 
 **Week 07:**
 >*1. Caching*
 >
->[Caching](Week07/Caching.md#caching)
+>[Caching](Week07/1.%20Caching.md#caching)
 >
->[Web API caching](Week07/Caching.md#web-api-caching)
+>[Web API caching](Week07/1.%20Caching.md#web-api-caching)
 >
->[ETags](Week07/Caching.md#etags)
+>[ETags](Week07/1.%20Caching.md#etags)
 >
->[CacheCow](Week07/Caching.md#cachecow)
+>[CacheCow](Week07/1.%20Caching.md#cachecow)
 >
->[ASP.NET Web API CacheOutput](Week07/Caching.md#aspnet-web-api-cacheoutput)
+>[ASP.NET Web API CacheOutput](Week07/1.%20Caching.md#aspnet-web-api-cacheoutput)
 >
->[Custom Server side cache example](Week07/Caching.md#custom-server-side-cache-example)
+>[Custom Server side cache example](Week07/1.%20Caching.md#custom-server-side-cache-example)
 
 **Week 08:**
->*1. Node*
+>*1. Microservices*
 >
->[NodeJS](Week09/NodeJS.md)
+>[MicroServices](Week08/1.%20Microservices.md)
 
->*2. Express*
+>*2. NodeJS & ECMAScript 6*
 >
-
+>[MicroServices](Week08/2.%20NodeJS%20and%20ECMASCript%206.md)
+>
 **Week 09:**
->*1. MongoDB*
+>*1. NodeJS*
 >
+>[NodeJS](Week09/1.%20NodeJS.md)
+>*2. Express*
+> >[NodeJS](Week09/1.%20Express.md)
 
->*2. Elastic Search*
->
 >[Elasticsearch](Week10/elasticsearch.md#elasticsearch)
 >
 >[Download and install](Week10/elasticsearch.md#download-and-install)
@@ -258,29 +260,30 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 **Week 10:**
 
 >*1. NodeJS Unit tests*
->
-
+>[NodeJS Unit tests](Week10/1.%20NodeJS%20Unit%20Test.md)
 >*2. Message Queues*
 >
->[RabbitMQ](Week11/RabbitMQ.md#rabbitmq)
+>[RabbitMQ](Week10/2.%20Message%20Queues.md#rabbitmq)
 >
->[Installing RabbitMQ](Week11/RabbitMQ.md#installing-rabbitmq)
+>[Installing RabbitMQ](Week10/2.%20Message%20Queues.md#installing-rabbitmq)
 >
->[Example 1](Week11/RabbitMQ.md#example-1)
->
->[Message acknowledgment](Week11/RabbitMQ.md#message-acknowledgment)
->
->[Message durability](Week11/RabbitMQ.md#message-durability)
+>[Examples](Week10/2.%20Message%20Queues.md#examples)
 
 
 **Week 11:**
->*1. Deployment*
->
+>*1. Document Storage*
+>[MongoDB](Week11/1.%20Document%20Storage.md#mongodb)
+>[Mongo](Week11/1.%20Document%20Storage.md#mongo)
+>[Mongoose](Week11/1.%20Document%20Storage.md#mongoose)
 
->*2. Docker*
->
+>*2. Elastic Search*
+>[Download and install](Week11/2.%20ElasticSearch.dm#download-and-install)
+>[Indexing](Week11/2.%20ElasticSearch.dm#indexing)
+>[Search](Week11/2.%20ElasticSearch.dm#search)
 
 
 **Week 12:**
->*1. Microservices*
->
+>*1. Deployment*
+> [Deployment](Week12/1.%20Deployment.md)
+>*2. Docker*
+> [Deployment](Week12/1.%20Docker.md)
