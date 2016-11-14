@@ -206,6 +206,7 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 >[OpenID Connect basic specs](Week06/1.%20Authentication%20and%20authorization.md#openid-connect-basic-specs)
 >
 >*2. OData*
+> 
 >[OData](Week06/2.%20OData.md#odata)
 >
 >[Querying Data](Week06/2.%20OData.md#querying-data)
@@ -245,7 +246,7 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 >
 >*2. Express*
 >
->[Express](Week09/1.%20Express.md)
+>[Express](Week09/2.%20Express.md)
 
 **Week 10:**
 
