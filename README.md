@@ -189,7 +189,6 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 
 >*5. ELK*
 >
-
 **Week 06:**
 >*1. Authentication and Authorization*
 >
@@ -204,7 +203,7 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 >[OpenID Connect](Week06/1.%20Authentication%20and%20authorization.md#openid-connect)
 >
 >[OpenID Connect basic specs](Week06/1.%20Authentication%20and%20authorization.md#openid-connect-basic-specs)
-
+>
 >*2. OData*
 >[OData](Week06/2.%20OData.md#odata)
 >
@@ -240,12 +239,15 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 >*1. NodeJS*
 >
 >[NodeJS](Week09/1.%20NodeJS.md)
+>
 >*2. Express*
-> >[NodeJS](Week09/1.%20Express.md)
-
+>
+>[NodeJS](Week09/1.%20Express.md)
+>
 >[Elasticsearch](Week10/elasticsearch.md#elasticsearch)
 >
 >[Download and install](Week10/elasticsearch.md#download-and-install)
+>
 >[Indexing](Week10/elasticsearch.md#indexing)
 >
 >[Search](Week10/elasticsearch.md#search)
@@ -260,6 +262,7 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 **Week 10:**
 
 >*1. NodeJS Unit tests*
+>
 >[NodeJS Unit tests](Week10/1.%20NodeJS%20Unit%20Test.md)
 >
 >*2. Message Queues*
@@ -292,6 +295,7 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 >*1. Deployment*
 >
 > [Deployment](Week12/1.%20Deployment.md)
+>
 >*2. Docker*
 >
 > [Deployment](Week12/1.%20Docker.md)
