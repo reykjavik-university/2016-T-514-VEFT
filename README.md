@@ -109,7 +109,8 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 >
 >[Accessing records - Single record](Week03/1.%20LINQ.md#single-record)
 >
->[Accessing records - More than one](Week03/1.%20LINQ.md#more-then-one)
+>[Accessing records - More than one](Week03/1.%20LINQ.md#more-than-one)
+>
 >[Join](Week03/1.%20LINQ.md#join)
 >
 >[Extending LINQ](Week03/1.%20LINQ.md#extending-linq)
