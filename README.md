@@ -261,6 +261,7 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 
 >*1. NodeJS Unit tests*
 >[NodeJS Unit tests](Week10/1.%20NodeJS%20Unit%20Test.md)
+>
 >*2. Message Queues*
 >
 >[RabbitMQ](Week10/2.%20Message%20Queues.md#rabbitmq)
@@ -268,22 +269,29 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 >[Installing RabbitMQ](Week10/2.%20Message%20Queues.md#installing-rabbitmq)
 >
 >[Examples](Week10/2.%20Message%20Queues.md#examples)
-
-
+>
 **Week 11:**
 >*1. Document Storage*
+>
 >[MongoDB](Week11/1.%20Document%20Storage.md#mongodb)
+>
 >[Mongo](Week11/1.%20Document%20Storage.md#mongo)
+>
 >[Mongoose](Week11/1.%20Document%20Storage.md#mongoose)
-
+>
 >*2. Elastic Search*
+>
 >[Download and install](Week11/2.%20ElasticSearch.dm#download-and-install)
+>
 >[Indexing](Week11/2.%20ElasticSearch.dm#indexing)
+>
 >[Search](Week11/2.%20ElasticSearch.dm#search)
 
 
 **Week 12:**
 >*1. Deployment*
+>
 > [Deployment](Week12/1.%20Deployment.md)
 >*2. Docker*
+>
 > [Deployment](Week12/1.%20Docker.md)
