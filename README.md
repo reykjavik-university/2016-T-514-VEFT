@@ -303,4 +303,4 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 >
 >*2. Docker*
 >
-> [Deployment](Week12/1.%20Docker.md)
+> [Docker](Week12/2.%20Docker.md)
