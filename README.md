@@ -245,22 +245,7 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 >
 >*2. Express*
 >
->[NodeJS](Week09/1.%20Express.md)
->
->[Elasticsearch](Week10/elasticsearch.md#elasticsearch)
->
->[Download and install](Week10/elasticsearch.md#download-and-install)
->
->[Indexing](Week10/elasticsearch.md#indexing)
->
->[Search](Week10/elasticsearch.md#search)
->
->[Basic text search](Week10/elasticsearch.md#basic-text-search)
->
->[Query in list](Week10/elasticsearch.md#query-in-list)
->
->[Query by range on dates](Week10/elasticsearch.md#query-by-range-on-dates)
-
+>[Express](Week09/1.%20Express.md)
 
 **Week 10:**
 
