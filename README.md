@@ -231,12 +231,18 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 **Week 08:**
 >*1. Microservices*
 >
->[MicroServices](Week08/1.%20Microservices.md)
+>[Monoliths](Week08/1.%20Microservices.md#monoliths)
+>
+>[What are microservices?](Week08/1.%20Microservices.md#what-are-microservices)
+
 
 >*2. NodeJS & ECMAScript 6*
 >
->[MicroServices](Week08/2.%20NodeJS%20and%20ECMASCript%206.md)
-
+>[NodeJS](Week08/2.%20NodeJS%20and%20ECMASCript%206.md#nodejs)
+>
+>[JS Variables](Week08/2.%20NodeJS%20and%20ECMASCript%206.md#variables-in-javascript)
+>
+>[JS Functions](Week08/2.%20NodeJS%20and%20ECMASCript%206.md#functions)
 
 **Week 09:**
 
@@ -244,9 +250,23 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 >
 >[NodeJS](Week09/1.%20NodeJS.md)
 >
+>[Install NodeJS](Week09/1.%20NodeJS.md#how-to-install-nodejs)
+>
+>[NodeJS Shell](Week09/1.%20NodeJS.md#nodejs-shell)
+>
+>[Echo Server](Week09/1.%20NodeJS.md#echo-server)
+>
+>[Web Service in NodeJS](Week09/1.%20NodeJS.md#web-service-in-nodejs)
+
 >*2. Express*
 >
 >[Express](Week09/2.%20Express.md)
+>
+>[Download and Install](Week09/2.%20Express.md#download-and-install)
+>
+>[Middleware](Week09/2.%20Express.md#middleware)
+>
+>[Lets dance](Week09/2.%20Express.md#lets-dance)
 
 **Week 10:**
 
