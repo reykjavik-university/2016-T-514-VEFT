@@ -206,7 +206,7 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 >[OpenID Connect basic specs](Week06/1.%20Authentication%20and%20authorization.md#openid-connect-basic-specs)
 >
 >*2. OData*
-> 
+>
 >[OData](Week06/2.%20OData.md#odata)
 >
 >[Querying Data](Week06/2.%20OData.md#querying-data)
@@ -290,3 +290,11 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 >*2. Docker*
 >
 > [Docker](Week12/2.%20Docker.md)
+> 
+> [What is docker?](Week12/2.%20Docker.md#what-is-docker)
+>
+> [Installing on Windows](Week12/2.%20Docker.md#installing-on-windows)
+>
+> [Installing on Linux](Week12/2.%20Docker.md#installing-on-linux)
+>
+> [Running Docker](Week12/2.%20Docker.md#running-docker)
