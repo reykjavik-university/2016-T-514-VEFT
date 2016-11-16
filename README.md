@@ -38,6 +38,8 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 >
 >[HTTP Status codes](Week01/2.%20REST.md#http-status-codes)
 >
+>[Response format](Week01/2.%20REST.md#response-format)
+>
 >[Versioning](Week01/2.%20REST.md#versioning)
 >
 >[REST Maturity Model](Week01/2.%20REST.md#rest-maturity-model)
@@ -48,10 +50,25 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 
 >*3. SOAP*
 >
+>[What](Week01/3.%20SOAP.md#what)
+>
+>[Why](Week01/3.%20SOAP.md#why)
+>
+>[Why not](Week01/3.%20SOAP.md#why-not)
+>
+>[REST vs SOAP](Week01/3.%20SOAP.md#rest-vs-soap)
+>
+>[Helpful resources](Week01/3.%20SOAP.md#helpful-resources)
 
 >*4. ASP.NET Web API*
 >
->[Architecture](Week01/4.%20ASP.NET%20Web%20API.md#aspnet-web-api)
+>[History](Week01/4.%20ASP.NET%20Web%20API.md#history)
+>
+>[Installing](Week01/4.%20ASP.NET%20Web%20API.md#installing)
+>
+>[Creating a Web API project](Week01/4.%20ASP.NET%20Web%20API.md#creating-a-web-api-project)
+>
+>[Architecture](Week01/4.%20ASP.NET%20Web%20API.md#architecture)
 >
 >[JSON or XML?](Week01/4.%20ASP.NET%20Web%20API.md#json-or-xml)
 >
@@ -79,6 +96,8 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 >[Entities, DTO and ViewModels](Week02/1.%20Web%20Service%20Architecture.md#entities-dto-and-viewmodels)
 >
 >[Project Setup](Week02/1.%20Web%20Service%20Architecture.md#project-setup)
+>
+>[Adding a new project to our solution](Week02/1.%20Web%20Service%20Architecture.md#adding-a-new-project-to-our-solution)
 
 >*2. Unit of Work*
 >
@@ -165,7 +184,7 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 >
 >[Data Annotations](Week05/2.%20Validation.md#data-annotations)
 >
->[Moving validation to service layer](Week05/2.%20Validation.md#moving-validation-to-service-layer)
+>[Moving validation to the service layer](Week05/2.%20Validation.md#moving-validation-to-the-service-layer)
 >
 >[Handling Validation Errors](Week05/2.%20Validation.md#handling-validation-errors)
 
@@ -188,10 +207,10 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 >[Creating Custom Trace Writer](Week05/4.%20Tracing.md#creating-custom-trace-writer)
 
 >*5. ELK*
+>
 
 **Week 06:**
-
->*1. Authentication and Authorization*
+>*1. Security*
 >
 >[OAuth](Week06/1.%20Authentication%20and%20authorization.md#oauth)
 >
@@ -204,7 +223,7 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 >[OpenID Connect](Week06/1.%20Authentication%20and%20authorization.md#openid-connect)
 >
 >[OpenID Connect basic specs](Week06/1.%20Authentication%20and%20authorization.md#openid-connect-basic-specs)
->
+
 >*2. OData*
 >
 >[OData](Week06/2.%20OData.md#odata)
@@ -231,82 +250,120 @@ check out [this tutorial](https://help.github.com/articles/syncing-a-fork).
 **Week 08:**
 >*1. Microservices*
 >
->[Monoliths](Week08/1.%20Microservices.md#monoliths)
+>[Microservices](Week08/1.%20Microservices.md#microservices)
 >
->[What are microservices?](Week08/1.%20Microservices.md#what-are-microservices)
-
-
->*2. NodeJS & ECMAScript 6*
+>*2. NodeJS and ECMASCript 6*
 >
->[NodeJS](Week08/2.%20NodeJS%20and%20ECMASCript%206.md#nodejs)
->
->[JS Variables](Week08/2.%20NodeJS%20and%20ECMASCript%206.md#variables-in-javascript)
->
->[JS Functions](Week08/2.%20NodeJS%20and%20ECMASCript%206.md#functions)
 
 **Week 09:**
-
 >*1. NodeJS*
 >
->[NodeJS](Week09/1.%20NodeJS.md)
+>[Node.js](Week09/1.%20NodeJS.md#nodejs)
 >
->[Install NodeJS](Week09/1.%20NodeJS.md#how-to-install-nodejs)
+>[How to install Node.js](Week09/1.%20NodeJS.md#how-to-install-nodejs)
 >
->[NodeJS Shell](Week09/1.%20NodeJS.md#nodejs-shell)
+>[Nodejs shell](Week09/1.%20NodeJS.md#nodejs-shell)
 >
->[Echo Server](Week09/1.%20NodeJS.md#echo-server)
+>[Node.js is single threaded and asynchronous](Week09/1.%20NodeJS.md#nodejs-is-single-threaded-and-asynchronous)
 >
->[Web Service in NodeJS](Week09/1.%20NodeJS.md#web-service-in-nodejs)
+>[Echo server](Week09/1.%20NodeJS.md#echo-server)
+>
+>[Web service in node.js](Week09/1.%20NodeJS.md#web-service-in-nodejs)
 
 >*2. Express*
 >
->[Express](Week09/2.%20Express.md)
+>[Express](Week09/2.%20Express.md#express)
 >
->[Download and Install](Week09/2.%20Express.md#download-and-install)
+>[Download and install](Week09/2.%20Express.md#download-and-install)
 >
 >[Middleware](Week09/2.%20Express.md#middleware)
 >
 >[Lets dance](Week09/2.%20Express.md#lets-dance)
+>
+>[MEAN Stack](Week09/2.%20Express.md#mean-stack)
+>
+>[Helpful resources](Week09/2.%20Express.md#helpful-resources)
 
 **Week 10:**
 
 >*1. NodeJS Unit tests*
 >
->[NodeJS Unit tests](Week10/1.%20NodeJS%20Unit%20Test.md)
+>[Unit Testing](Week10/1.%20NodeJS%20Unit%20Test.md#unit-testing)
 >
->[How To Install Mocha](Week10/1.%20NodeJS%20Unit%20Test.md#how-to-install-mocha)
+>[How to install Mocha](Week10/1.%20NodeJS%20Unit%20Test.md#how-to-install-mocha)
 >
->[The node JS function under test](Week10/1.%20NodeJS%20Unit%20Test.md#the-node-js-function-under-test)
+>[The node JS function under test.](Week10/1.%20NodeJS%20Unit%20Test.md#the-node-js-function-under-test)
 >
-> [Our first Mocha test](Week10/1.%20NodeJS%20Unit%20Test.md#our-first-mocha-test)
+>[Our first Mocha test](Week10/1.%20NodeJS%20Unit%20Test.md#our-first-mocha-test)
 >
+>[Running Mocha](Week10/1.%20NodeJS%20Unit%20Test.md#running-mocha)
+
 >*2. Message Queues*
 >
 >[RabbitMQ](Week10/2.%20Message%20Queues.md#rabbitmq)
 >
 >[Installing RabbitMQ](Week10/2.%20Message%20Queues.md#installing-rabbitmq)
 >
->[Examples](Week10/2.%20Message%20Queues.md#examples)
+>[Example 1](Week10/2.%20Message%20Queues.md#example-1)
+>
+>[Message acknowledgment](Week10/2.%20Message%20Queues.md#message-acknowledgment)
+>
+>[Message durability](Week10/2.%20Message%20Queues.md#message-durability)
 
 
 **Week 11:**
-
+>
 >*1. Document Storage*
 >
 >[MongoDB](Week11/1.%20Document%20Storage.md#mongodb)
->
+>>
+>>[Data models.](Week11/1.%20Document%20Storage.md#data-models)
+>>
+>>[Indexes](Week11/1.%20Document%20Storage.md#indexes)
+>>
+>>[Replication](Week11/1.%20Document%20Storage.md#replication)
+>>
+>>[Sharding](Week11/1.%20Document%20Storage.md#sharding)
+>>
+>>[Setup](Week11/1.%20Document%20Storage.md#setup)
+>>
 >[Mongo](Week11/1.%20Document%20Storage.md#mongo)
 >
 >[Mongoose](Week11/1.%20Document%20Storage.md#mongoose)
+>>
+>>[Setup](Week11/1.%20Document%20Storage.md#setup-1)
+>>
+>>[Getting started](Week11/1.%20Document%20Storage.md#getting-started)
 >
+>[Validating in mongoose](Week11/1.%20Document%20Storage.md#validating-in-mongoose)
+>>
+>>[Simple validation](Week11/1.%20Document%20Storage.md#simple-validation)
+>>
+>>[Regular expression](Week11/1.%20Document%20Storage.md#regular-expression)
+>>
+>>[Asynchronous validation](Week11/1.%20Document%20Storage.md#asynchronous-validation)
+>>
+>>[Built in validators.](Week11/1.%20Document%20Storage.md#built-in-validators)
+
 >*2. Elastic Search*
+>
+>[Elasticsearch](Week11/2.%20ElasticSearch.md#elasticsearch)
 >
 >[Download and install](Week11/2.%20ElasticSearch.md#download-and-install)
 >
 >[Indexing](Week11/2.%20ElasticSearch.md#indexing)
 >
 >[Search](Week11/2.%20ElasticSearch.md#search)
-
+>
+>[Basic text search](Week11/2.%20ElasticSearch.md#basic-text-search)
+>
+>[Query in list](Week11/2.%20ElasticSearch.md#query-in-list)
+>
+>[Query by range on dates](Week11/2.%20ElasticSearch.md#query-by-range-on-dates)
+>
+>[Advanced key storing](Week11/2.%20ElasticSearch.md#advanced-key-storing)
+>
+>[Using Elasticsearch with MongoDB](Week11/2.%20ElasticSearch.md#using-elasticsearch-with-mongodb)
 
 **Week 12:**
 >*1. Deployment*
